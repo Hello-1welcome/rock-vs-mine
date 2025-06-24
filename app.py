@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-pip install scikit-learn
+import scikit-learn
 
 
 # --- Load your trained model ---
